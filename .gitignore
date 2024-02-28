@@ -1,3 +1,6 @@
+# Tim's entries
+*.code-workspace
+
 # Logs
 logs
 *.log
