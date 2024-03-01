@@ -10,23 +10,6 @@ The mission of PSF is to become the global standard for sharing, discovering, an
 *   **User contributions:** Community-driven expansion of the prompt library.
 *   **Secure Azure Hosting:** Reliable and scalable infrastructure for worldwide access.
 
-## Getting Started
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/timothywarner-org/psf.git
-    ```
-
-2.  **Install Dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Start Development Server:**
-    ```bash
-    npm start
-    ```
-
 ## Technical Overview
 
 *   **Frontend:** React.js for a dynamic user experience.
