@@ -31,34 +31,17 @@ The mission of PSF is to become the global standard for sharing, discovering, an
 ## Key Features
 
 *   **Centralized Prompt Repository:** A well-organized, searchable storehouse of prompts across various industries and use cases.
-*   **Intuitive Web Interface (React):** Browse, filter, and copy prompts with ease.
+*   **Intuitive web interface (perhaps React.js?):** Browse, filter, and copy prompts with ease.
 *   **Robust API (Node.js):** Programmatic access for integration into your own AI-powered applications.
-*   **User Contributions:** Community-driven expansion of the prompt library.
+*   **User contributions:** Community-driven expansion of the prompt library.
 *   **Secure Azure Hosting:** Reliable and scalable infrastructure for worldwide access.
-
-## Getting Started
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [invalid URL removed]
-    ```
-
-2.  **Install Dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Start Development Server:**
-    ```bash
-    npm start
-    ```
 
 ## Technical Overview
 
 *   **Frontend:** React.js for a dynamic user experience.
 *   **Backend:** Node.js with Express.js to power the REST API.
 *   **Database:** (Suggest a database based on your project scale, e.g., PostgreSQL, MongoDB)
-*   **Azure Deployment:** (Suggest appropriate Azure services - App Service, Azure Functions, Container Instances, etc.)
+*   **Azure deployment:** (Suggest appropriate Azure services - App Service, Azure Functions, Container Instances, etc.)
 
 ## Contributing
 
@@ -78,6 +61,6 @@ We welcome contributions to grow PSF's prompt library! Here's how:
 
 MIT License
 
-Copyright (c) 2023 timothywarner-org
+Copyright (c) 2024 timothywarner-org
 
 **Let's build the future of prompt sharing together!**
