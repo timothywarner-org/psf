@@ -1,5 +1,31 @@
 # Prompt Sharing Framework (PSF)
 
+Hey there. Let me start by saying I don't know what the heck I'm doing.
+
+My brain contains a hazy dream. Let me give you a glimpse of it via a brainstorm list:
+
+Wow, it would be so awesome if we developed a framework that:
+
+- makes it easy to share and discover prompts for generative AI models
+- prompt elements can be organized by category, industry, and use case
+- We want an intuitive way for end users to browse, filter, and copy prompts (simple React front end?)
+- We could link to the GitHub API to allow for programmatic access to the prompt library
+- We could parameterize the prompts to make them more modular
+- We could also sic the microservices architecture on this problem: decompose a prompt in four parts: Goal, Context, Expectations, and Source
+
+If you want to collaborate on this project, post to this repo's Discussions and let's chat! Thanks, Tim
+
+
+
+
+
+
+
+
+
+
+
+
 The mission of PSF is to become the global standard for sharing, discovering, and utilizing prompts for generative AI models.
 
 ## Key Features
