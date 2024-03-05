@@ -1,3 +1,5 @@
+### Prompt
+
 Construct an Azure Bicep template that defines a deployment of multiple Azure Firewalls. 
 The template should accept parameters for workspace name, workspace group, subscription, 
 network group, naming prefixes for the firewalls, public IPs, and virtual networks, 
