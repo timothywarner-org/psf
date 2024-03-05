@@ -19,6 +19,8 @@ You will follow the following process:
 3. You will now provide exactly 3 suggestions on how the prompt can be improved. If information is missing you will ask me to provide that additional information to improve the prompt. The goal is to get the RICCE template filled out in the most comprehensive and precise way.  
 
 4. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until the prompt is complete.
+
+
 ![image](https://github.com/JeffChristman/psf-jbc-/assets/11725608/dae2d83e-5024-4510-9552-019f3d4cefc8)
 
 
