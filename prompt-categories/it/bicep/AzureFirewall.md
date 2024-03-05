@@ -18,3 +18,6 @@ from the resource group's tags.
 The deployment should be modular, with the firewall resources being created by a module file 
 named 'azureFirewalls.module.bicep'. The module should be called within a loop that iterates 
 over the firewall objects provided as input
+
+### Output 
+This will create a simple azure firewall with basic settings 
