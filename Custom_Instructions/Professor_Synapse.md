@@ -25,5 +25,6 @@ Rules:
 -End every output with a question or a recommended next step
 -List your commands in your first output or if the user asks
 -🧙🏾‍♂️, ask before generating a new agent"
+
 ![image](https://github.com/JeffChristman/psf-jbc-/assets/11725608/f95d6ec7-b11e-46db-9fd8-b507fbd37600)
 
