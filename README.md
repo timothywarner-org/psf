@@ -1,4 +1,4 @@
-# Prompt Sharing Framework (PSF)
+# Prompt Sharing Framework (PSF) v2
 
 Hey there. Let me start by saying I don't know what the heck I'm doing.
 
